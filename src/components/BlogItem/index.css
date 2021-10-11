@@ -1,0 +1,32 @@
+.blog-item {
+  list-style-type: none;
+  width: 70vw;
+}
+
+.title-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-family: Roboto;
+  color: #12022f;
+  font-size: 25px;
+  font-weight: bold;
+}
+.date {
+  font-family: Roboto;
+  color: #9aa5b1;
+  font-size: 20px;
+  font-weight: 500;
+}
+.description {
+  font-family: Roboto;
+  color: #616e7c;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/* Hex: #9aa5b1
+Hex: #616e7c
+Hex: #12022f */
